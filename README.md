@@ -1,2 +1,2 @@
 # Snake-Game:
-[Live demo: ](https://alshlkany.github.io/Snake-Game/)
+[Live demo: ](https://alshlqany.github.io/Snake-Game/)
